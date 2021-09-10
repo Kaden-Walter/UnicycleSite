@@ -1,0 +1,52 @@
+/*find by class, use "."*/
+.text{
+  font-size: 20px;
+  font-family: myFirstFont;
+}
+.hr{
+  color: black;
+  border: 5px solid;
+}
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(staatliches.woff);
+}
+#h1{
+  background-color: khaki;
+  font-family: myFirstFont;
+}
+#boottext{
+  font-color: white;
+  font-family: myFirstFont;
+}
+#sub{
+  background-color: khaki;
+}
+#body{
+  background-image: url("background.jpg");
+  background-color: #cccccc;
+}
+#column1{
+  background-color: mediumpurple;
+  height: 100%;
+  border-left: black dotted;
+  border-bottom: black dotted;
+}
+
+#column2{
+  border-right: 5px solid black;
+  border-left: 5px solid black;
+  background-color: khaki;
+}
+#column3{
+  background-color: mediumpurple;
+  height: 100%;
+  border-right: black dotted;
+  border-bottom: black dotted;
+}
+a{
+  text-decoration: none;
+  font-size: 20px;
+  color: limegreen;
+}
